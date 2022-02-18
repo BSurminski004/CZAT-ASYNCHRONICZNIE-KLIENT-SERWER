@@ -1,0 +1,47 @@
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.exe
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.deps.json
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.runtimeconfig.json
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.runtimeconfig.dev.json
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.dll
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.pdb
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.Form1.resources
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.csproj.GenerateResource.cache
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.AssemblyInfoInputs.cache
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.AssemblyInfo.cs
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.csproj.CoreCompileInputs.cache
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.dll
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.pdb
+C:\Users\mariu\source\repos\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.genruntimeconfig.cache
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.exe
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.deps.json
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.runtimeconfig.json
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.runtimeconfig.dev.json
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.dll
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.pdb
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.csproj.AssemblyReference.cache
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.Form1.resources
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.csproj.GenerateResource.cache
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.GeneratedMSBuildEditorConfig.editorconfig
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.AssemblyInfoInputs.cache
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.AssemblyInfo.cs
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.csproj.CoreCompileInputs.cache
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.dll
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.pdb
+A:\STUDIA SEM V\V\INF2\GNIAZDA\v2\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.genruntimeconfig.cache
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.exe
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.deps.json
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.runtimeconfig.json
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.runtimeconfig.dev.json
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.dll
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\bin\Debug\netcoreapp3.1\GniazdaClient.pdb
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.csproj.AssemblyReference.cache
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.Form1.resources
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.csproj.GenerateResource.cache
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.GeneratedMSBuildEditorConfig.editorconfig
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.AssemblyInfoInputs.cache
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.AssemblyInfo.cs
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.csproj.CoreCompileInputs.cache
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.dll
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.pdb
+A:\STUDIA SEM V\V\INF2\ZADANIA CW\GNIAZDA\Klient-Serwer gniazda\GniazdaClient\GniazdaClient\obj\Debug\netcoreapp3.1\GniazdaClient.genruntimeconfig.cache
